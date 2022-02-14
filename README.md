@@ -1,4 +1,5 @@
-<h3 align="center">👋 Hi, I'm Kelvin 💕</h3>
+## Hola, I'm [Kelvin Bawa!](https://kelvinbawa.com) 👋
+
 <p align="center">
   <a href="https://kelvinbawa.com">🌍 Website</a> • 
   <a href="https://twitter.com/kelvinbawa">📱 Twitter</a> • 
@@ -9,8 +10,8 @@
 
 [![kelvin bawa](https://github-readme-stats.vercel.app/api?username=kelvinbawa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.kelvinbawa.com)
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+<a href="https://github.com/kelvinbawa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbawa&theme=light&hide_langs_below=1" />
 </a>
 
 I am a Software Engineer 👩🏽‍💻, and a designer.
