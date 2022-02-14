@@ -1,4 +1,4 @@
-## Hola, I'm [Kelvin Bawa!](https://kelvinbawa.com) 👋
+## Hola, I'm [Kelvin Bawa!](https://kelvinbawa.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
   <a href="https://kelvinbawa.com">🌍 Website</a> • 
@@ -13,6 +13,7 @@
 <a href="https://github.com/kelvinbawa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbawa&theme=light&hide_langs_below=1" />
 </a>
+
 
 I am a Software Engineer 👩🏽‍💻, and a designer.
 
