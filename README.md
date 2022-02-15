@@ -6,7 +6,7 @@
   <a href="https://youtube.com/c/kelvinbawa">📼 YouTube</a>
 </p>
 
-[![kelvin bawa](https://cdn.dribbble.com/users/52573/screenshots/16494725/media/bb7ffa1c17f4ee160ae2009fc923a0e0.jpg)](https://www.kelvinbawa.com)
+[![kelvin bawa](https://cdn.dribbble.com/users/263906/screenshots/3006478/media/3067035b05eb13ca57d697c63606e465.png)](https://www.kelvinbawa.com)
 
 [![kelvin bawa](https://github-readme-stats.vercel.app/api?username=kelvinbawa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.kelvinbawa.com)
 
