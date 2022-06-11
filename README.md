@@ -11,7 +11,7 @@
 [![kelvin bawa](https://github-readme-stats.vercel.app/api?username=kelvinbawa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.kelvinbawa.com)
 
 <a href="https://github.com/kelvinbawa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbawa&theme=light&hide_langs_below=1" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbawa&theme=light&hide_langs_below=1](https://media-exp1.licdn.com/dms/image/C4D16AQGbu9IZrZdIag/profile-displaybackgroundimage-shrink_350_1400/0/1654913005722?e=1660176000&v=beta&t=xMG8NGKYRP_3oUQ9MJ_c83gHaRAvGPY5uwGx12O1OsQ)" />
 </a>
 
 
