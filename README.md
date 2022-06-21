@@ -10,19 +10,9 @@
 
 <hr>
 
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=kelvinbawa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox" />
-</p>
 
-
-
-<p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=kelvinbawa&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
-</p>
-
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbawa&layout=compact&theme=gruvbox">
-</p>
+![My state](https://github-readme-stats.vercel.app/api?username=kelvinbawa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox)
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=kelvinbawa&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
 
 
 # Technologies
