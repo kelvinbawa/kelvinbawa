@@ -1,12 +1,7 @@
 <!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=kelvinbawa.visitor-badge)](https://github.com/kelvinbawa) -->
 <!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=kelvinbawa.visitor-badge" /> -->
 
-<h3 align="center">
-	Hello and welcome :smile:
-</h3>
-
-<h5 align="center">⚡ Driven by a passion for people and problem-solving. Performed best on teams involved in using the latest of technology in hardware and software for the design, implementation, and execution of modern solutions for today's problems.</h5>
-<h5 align="center">📫 How to reach me: +234 803 45 4749</h5>
+![bio](https://lh3.googleusercontent.com/YTOHgNgoZth0pJzVxdlARy6ONhxNGgAN2BMRaooG5dYNfj-0yaeAcMwhYdeYZsBOJ6doXcgYqpQQvbKdC92e=w2664-h1478-rw)
 
 <hr>
 
