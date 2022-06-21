@@ -1,7 +1,7 @@
 <!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=kelvinbawa.visitor-badge)](https://github.com/kelvinbawa) -->
 <!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=kelvinbawa.visitor-badge" /> -->
 
-![bio](https://lh3.googleusercontent.com/YTOHgNgoZth0pJzVxdlARy6ONhxNGgAN2BMRaooG5dYNfj-0yaeAcMwhYdeYZsBOJ6doXcgYqpQQvbKdC92e=w2664-h1478-rw)
+![bio](https://lh3.googleusercontent.com/MPPQQtmMqgGtT16qrhtjzJUU1mxw2MM0Oc4YSfaopQ37OmYGIJkrjwdPuW4pUQCZSud_MYMRyMgSs4JILflN=w2880-h1478-rw)
 
 <hr>
 
